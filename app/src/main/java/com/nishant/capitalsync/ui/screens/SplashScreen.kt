@@ -109,7 +109,7 @@ fun SplashScreen(
             CapitalSyncText(
                 text = stringResource(R.string.splash_title),
                 fontFamily = FontFamily.Serif,
-                fontWeight = FontWeight.Bold,
+                fontWeight = FontWeight.Medium,
                 style = MaterialTheme.typography.displayLarge,
                 color = MaterialTheme.colorScheme.onPrimary
             )

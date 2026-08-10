@@ -61,7 +61,7 @@
     <string name="total_transactions">Total Transactions: %d</string>
 
     <!-- Splash Screen Strings -->
-    <string name="splash_title">Cashé</string>
+    <string name="splash_title">CapitalSync</string>
     <string name="splash_subtitle">Your money, in focus</string>
     <string name="goals_challenges">Goal Challenge</string>
     <string name="no_goals_active">No Active Goals</string>

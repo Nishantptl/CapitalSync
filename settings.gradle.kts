@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "cashe"
+rootProject.name = "CapitalSync"
 include(":app")
