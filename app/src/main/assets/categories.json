@@ -1,0 +1,66 @@
+{
+  "expense_categories": [
+    {
+      "id": "food_dining",
+      "name": "Food & Dining",
+      "icon": "restaurant",
+      "sub_categories": ["Groceries", "Restaurants", "Coffee/Snacks", "Food Delivery"]
+    },
+    {
+      "id": "transport",
+      "name": "Transportation",
+      "icon": "directions_car",
+      "sub_categories": ["Fuel", "Public Transit", "Ride-sharing", "Maintenance"]
+    },
+    {
+      "id": "housing",
+      "name": "Housing & Utilities",
+      "icon": "home",
+      "sub_categories": ["Rent/Mortgage", "Electricity", "Water", "Internet/Mobile"]
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "icon": "shopping_bag",
+      "sub_categories": ["Clothing", "Electronics", "Home Decor", "Personal Care"]
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment",
+      "icon": "stadia_controller",
+      "sub_categories": ["Movies", "Subscriptions", "Events", "Gaming"]
+    },
+    {
+      "id": "health",
+      "name": "Health & Fitness",
+      "icon": "health_and_safety",
+      "sub_categories": ["Pharmacy", "Doctor", "Gym", "Insurance"]
+    },
+    {
+      "id": "others",
+      "name": "Others",
+      "icon": "category",
+      "sub_categories": ["Gifts", "Donations", "General"]
+    }
+  ],
+  "income_categories": [
+    {
+      "id": "active_income",
+      "name": "Active Income",
+      "icon": "payments",
+      "sub_categories": ["Salary", "Freelance", "Bonus", "Business"]
+    },
+    {
+      "id": "passive_income",
+      "name": "Passive Income",
+      "icon": "trending_up",
+      "sub_categories": ["Interests", "Dividends", "Rental Income"]
+    },
+    {
+      "id": "other_income",
+      "name": "Others",
+      "icon": "account_balance_wallet",
+      "sub_categories": ["Gifts", "Refunds", "Sold Items"]
+    }
+  ]
+}
