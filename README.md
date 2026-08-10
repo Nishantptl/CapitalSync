@@ -44,10 +44,10 @@ Follow these steps to get the project running on your local machine:
 ### Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Nishantptl/CapitalSync.git
+   git clone [https://github.com/Nishantptl/CapitalSync.git](https://github.com/Nishantptl/CapitalSync.git)
    ```
 2. **Open the project:**
-   Launch Android Studio and select `Open` -> navigate to the cloned `capitalsync` directory.
+   Launch Android Studio and select `Open` -> navigate to the cloned `CapitalSync` directory.
 3. **Sync Gradle:**
    Allow Android Studio to download dependencies and sync the Gradle scripts.
 4. **Build and Run:**
@@ -110,10 +110,10 @@ The application's architecture is built on the pillars of **SOLID** principles a
 
 ## 📂 Project Structure
 
-- `app/src/main/java/com/hellacious/cashe/data`: Implementation of the data layer (entities, DAOs, repositories).
-- `app/src/main/java/com/hellacious/cashe/di`: Hilt modules for dependency injection.
-- `app/src/main/java/com/hellacious/cashe/domain`: Core business logic, use cases, and domain models (Clean Architecture).
-- `app/src/main/java/com/hellacious/cashe/navigation`: Application navigation graph and route definitions.
-- `app/src/main/java/com/hellacious/cashe/ui`: Composable screens, reusable components, and theme definitions.
-- `app/src/main/java/com/hellacious/cashe/utils`: Helper classes and extension functions.
+- `app/src/main/java/com/nishant/capitalsync/data`: Implementation of the data layer (entities, DAOs, repositories).
+- `app/src/main/java/com/nishant/capitalsync/di`: Hilt modules for dependency injection.
+- `app/src/main/java/com/nishant/capitalsync/domain`: Core business logic, use cases, and domain models (Clean Architecture).
+- `app/src/main/java/com/nishant/capitalsync/navigation`: Application navigation graph and route definitions.
+- `app/src/main/java/com/nishant/capitalsync/ui`: Composable screens, reusable components, and theme definitions.
+- `app/src/main/java/com/nishant/capitalsync/utils`: Helper classes and extension functions.
 
