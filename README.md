@@ -44,7 +44,7 @@ Follow these steps to get the project running on your local machine:
 ### Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Nishantptl/CapitalSync.git](https://github.com/Nishantptl/CapitalSync.git)
+   git clone https://github.com/Nishantptl/CapitalSync
    ```
 2. **Open the project:**
    Launch Android Studio and select `Open` -> navigate to the cloned `CapitalSync` directory.
