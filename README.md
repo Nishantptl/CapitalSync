@@ -16,18 +16,18 @@ The project follows modern Android development standards, utilizing a clean **MV
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/Screenshot_1.png" width="16%" />
-  <img src="screenshots/Screenshot_2.jpeg" width="759" alt="Screenshot_2"/>
-  <img src="screenshots/Screenshot_3.jpeg" width="751" alt="Screenshot_3"/>
-  <img src="screenshots/Screenshot_4.jpeg" width="753" alt="Screenshot_4"/>
-  <img src="screenshots/Screenshot_5.jpeg" width="759" alt="Screenshot_5"/>
-  <img src="screenshots/Screenshot_6.jpeg" width="755" alt="Screenshot_6"/>
-  <img src="screenshots/Screenshot_1.png" width="890" alt="Screenshot_7"/>
-  <img src="screenshots/Screenshot_2.jpeg" width="759" alt="Screenshot_8"/>
-  <img src="screenshots/Screenshot_3.jpeg" width="751" alt="Screenshot_9"/>
-  <img src="screenshots/Screenshot_4.jpeg" width="753" alt="Screenshot_10"/>
-  <img src="screenshots/Screenshot_5.jpeg" width="759" alt="Screenshot_11"/>
-  <img src="screenshots/Screenshot_6.jpeg" width="755" alt="Screenshot_12"/>
+  <img src="screenshots/Screenshot_1.png" width="16%" alt="Screenshot_1"/>
+  <img src="screenshots/Screenshot_2.png" width="16%" alt="Screenshot_2"/>
+  <img src="screenshots/Screenshot_3.png" width="16%" alt="Screenshot_3"/>
+  <img src="screenshots/Screenshot_4.png" width="16%" alt="Screenshot_4"/>
+  <img src="screenshots/Screenshot_5.png" width="16%" alt="Screenshot_5"/>
+  <img src="screenshots/Screenshot_6.png" width="16%" alt="Screenshot_6"/>
+  <img src="screenshots/Screenshot_7.png" width="16%" alt="Screenshot_7"/>
+  <img src="screenshots/Screenshot_8.png" width="16%" alt="Screenshot_8"/>
+  <img src="screenshots/Screenshot_9.png" width="16%" alt="Screenshot_9"/>
+  <img src="screenshots/Screenshot_10.png" width="16%" alt="Screenshot_10"/>
+  <img src="screenshots/Screenshot_11.png" width="16%" alt="Screenshot_11"/>
+  <img src="screenshots/Screenshot_12.png" width="16%" alt="Screenshot_12"/>
 </div>
 
 ---
