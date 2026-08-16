@@ -16,18 +16,18 @@ The project follows modern Android development standards, utilizing a clean **MV
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/Screenshot_20260805-172850.png" width="16%" />
-  <img src="screenshots/Screenshot_20260805-173356.png" width="16%" />
-  <img src="screenshots/Screenshot_20260805-173407.png" width="16%" />
-  <img src="screenshots/Screenshot_20260805-173425.png" width="16%" />
-  <img src="screenshots/Screenshot_20260805-173433.png" width="16%" />
-  <img src="screenshots/Screenshot_20260805-173438.png" width="16%" />
-  <img src="screenshots/Screenshot_20260805-173518.png" width="16%" />
-  <img src="screenshots/Screenshot_20260805-173532.png" width="16%" />
-  <img src="screenshots/Screenshot_20260805-173543.png" width="16%" />
-  <img src="screenshots/Screenshot_20260805-173549.png" width="16%" />
-  <img src="screenshots/Screenshot_20260805-173554.png" width="16%" />
-  <img src="screenshots/Screenshot_20260805-173601.png" width="16%" />
+  <img src="screenshots/Screenshot_1.png" width="16%" />
+  <img src="screenshots/Screenshot_2.jpeg" width="759" alt="Screenshot_2"/>
+  <img src="screenshots/Screenshot_3.jpeg" width="751" alt="Screenshot_3"/>
+  <img src="screenshots/Screenshot_4.jpeg" width="753" alt="Screenshot_4"/>
+  <img src="screenshots/Screenshot_5.jpeg" width="759" alt="Screenshot_5"/>
+  <img src="screenshots/Screenshot_6.jpeg" width="755" alt="Screenshot_6"/>
+  <img src="screenshots/Screenshot_1.png" width="890" alt="Screenshot_7"/>
+  <img src="screenshots/Screenshot_2.jpeg" width="759" alt="Screenshot_8"/>
+  <img src="screenshots/Screenshot_3.jpeg" width="751" alt="Screenshot_9"/>
+  <img src="screenshots/Screenshot_4.jpeg" width="753" alt="Screenshot_10"/>
+  <img src="screenshots/Screenshot_5.jpeg" width="759" alt="Screenshot_11"/>
+  <img src="screenshots/Screenshot_6.jpeg" width="755" alt="Screenshot_12"/>
 </div>
 
 ---
@@ -98,13 +98,13 @@ Follow these steps to get the project running on your local machine:
 
 The application's architecture is built on the pillars of **SOLID** principles and modern Android Jetpack libraries.
 
-| Layer | Technologies Used |
-| :--- | :--- |
-| **UI Layer** | Jetpack Compose, Material 3 UI, Navigation Compose |
-| **Business Logic** | ViewModels, Kotlin Flow, Coroutines |
-| **Data Layer** | Room Persistence, Repository Pattern, SQLCipher |
-| **DI** | Dagger Hilt |
-| **Serialization** | KotlinX Serialization |
+| Layer              | Technologies Used                                  |
+|:-------------------|:---------------------------------------------------|
+| **UI Layer**       | Jetpack Compose, Material 3 UI, Navigation Compose |
+| **Business Logic** | ViewModels, Kotlin Flow, Coroutines                |
+| **Data Layer**     | Room Persistence, Repository Pattern, SQLCipher    |
+| **DI**             | Dagger Hilt                                        |
+| **Serialization**  | KotlinX Serialization                              |
 
 ---
 
